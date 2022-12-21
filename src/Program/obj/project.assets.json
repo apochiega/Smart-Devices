@@ -495,11 +495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\PII_ProjectTemplate\\src\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\Smart-Devices\\src\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "c:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\PII_ProjectTemplate\\src\\Program\\Program.csproj",
+      "projectPath": "C:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\Smart-Devices\\src\\Program\\Program.csproj",
       "packagesPath": "C:\\Users\\pijua\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\PII_ProjectTemplate\\src\\Program\\obj\\",
+      "outputPath": "C:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\Smart-Devices\\src\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -521,8 +521,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\PII_ProjectTemplate\\src\\Library\\Library.csproj": {
-              "projectPath": "c:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\PII_ProjectTemplate\\src\\Library\\Library.csproj"
+            "C:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\Smart-Devices\\src\\Library\\Library.csproj": {
+              "projectPath": "C:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\Smart-Devices\\src\\Library\\Library.csproj"
             }
           }
         }

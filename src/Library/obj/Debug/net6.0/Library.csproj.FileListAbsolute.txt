@@ -11,3 +11,16 @@ c:\Users\pijua\Desktop\Julián\ucu\prog 2\PII_ProjectTemplate\src\Library\obj\De
 c:\Users\pijua\Desktop\Julián\ucu\prog 2\PII_ProjectTemplate\src\Library\obj\Debug\net6.0\refint\Library.dll
 c:\Users\pijua\Desktop\Julián\ucu\prog 2\PII_ProjectTemplate\src\Library\obj\Debug\net6.0\Library.pdb
 c:\Users\pijua\Desktop\Julián\ucu\prog 2\PII_ProjectTemplate\src\Library\obj\Debug\net6.0\ref\Library.dll
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\bin\Debug\net6.0\Library.deps.json
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\bin\Debug\net6.0\Library.dll
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\bin\Debug\net6.0\Library.pdb
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\bin\Debug\net6.0\Library.xml
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\obj\Debug\net6.0\Library.dll
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\obj\Debug\net6.0\refint\Library.dll
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\obj\Debug\net6.0\Library.pdb
+c:\Users\pijua\Desktop\Julián\ucu\prog 2\Smart-Devices\src\Library\obj\Debug\net6.0\ref\Library.dll

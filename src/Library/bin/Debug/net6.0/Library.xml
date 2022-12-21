@@ -4,32 +4,137 @@
         <name>Library</name>
     </assembly>
     <members>
-        <member name="T:ClassLibrary.Train">
+        <member name="T:AdapterExample.Bulb">
             <summary>
-            Esta clase representa un tren muy básico.
+            Una lámpara inteligente
             </summary>
         </member>
-        <member name="P:ClassLibrary.Train.IsEngineStarted">
+        <member name="M:AdapterExample.Bulb.#ctor(System.String)">
             <summary>
-            Obtiene un valor que indica si las maquinas del tren han sido encendidas o no.
+            Crea una nueva lámpara inteligente.
             </summary>
-            <value><c>true</c> si las máquinas fueron encendidas, <c>false</c> en caso contrario.</value>
+            <param name="id">ID del dispositivo.</param>
+            <returns>La lámpara recién creada.</returns>
         </member>
-        <member name="M:ClassLibrary.Train.StartEngines">
+        <member name="P:AdapterExample.Bulb.id">
             <summary>
-            Enciende las máquinas del tren.
+            .
             </summary>
-            <returns>
-            <c>true</c> si las máquinas pueden ser encendidas, <c>false</c> en caso contrario.
-            </returns>
+            <returns>El ID del dispositivo.</returns>
         </member>
-        <member name="M:ClassLibrary.Train.StopEngines">
+        <member name="F:AdapterExample.Bulb.status">
             <summary>
-            Detiene las máquinas del tren.
+            .
             </summary>
-            <returns>
-            <c>true</c> si las máquinas pueden ser detenidas, <c>false</c> en caso contrario.
-            </returns>
+            <returns>El status del dispositivo.</returns>
+        </member>
+        <member name="M:AdapterExample.Bulb.On">
+            <summary>
+            Enciende la lámpara.
+            </summary>
+        </member>
+        <member name="M:AdapterExample.Bulb.Off">
+            <summary>
+            Apaga la lámpara.
+            </summary>
+        </member>
+        <member name="M:AdapterExample.Bulb.GetStatus">
+            <summary>
+            Retorna el status de la lámpara.
+            </summary>
+        </member>
+        <member name="T:AdapterExample.ISmartDevice">
+            <summary>
+            Una interface para todos los dispositivos inteligentes
+            </summary>
+        </member>
+        <member name="M:AdapterExample.ISmartDevice.On">
+            <summary>
+            Enciende el dispositivo.
+            </summary>        
+        </member>
+        <member name="M:AdapterExample.ISmartDevice.Off">
+            <summary>
+            Apaga el dispositivo.
+            </summary>          
+        </member>
+        <member name="M:AdapterExample.ISmartDevice.GetStatus">
+            <summary>
+            Estado el dispositivo.
+            </summary>  
+        </member>
+        <member name="T:AdapterExample.Plug">
+            <summary>
+            Un enchufe inteligente
+            </summary>
+        </member>
+        <member name="M:AdapterExample.Plug.#ctor(System.String)">
+            <summary>
+            Crea un nuevo enchufe inteligente.
+            </summary>
+            <param name="id">ID del dispositivo.</param>
+            <returns>El enchufe recién creada.</returns>
+        </member>
+        <member name="P:AdapterExample.Plug.id">
+            <summary>
+            .
+            </summary>
+            <returns>El ID del dispositivo.</returns>
+        </member>
+        <member name="F:AdapterExample.Plug.status">
+            <summary>
+            .
+            </summary>
+            <returns>El status del dispositivo.</returns>
+        </member>
+        <member name="M:AdapterExample.Plug.ToggleStatus">
+            <summary>
+            Cambia el estado
+            </summary>
+        </member>
+        <member name="M:AdapterExample.Plug.GetStatus">
+            <summary>
+            Retorna el status de l enchufe.
+            </summary>
+        </member>
+        <member name="T:AdapterExample.WashingMachine">
+            <summary>
+            Un lavarropas inteligente
+            </summary>
+        </member>
+        <member name="M:AdapterExample.WashingMachine.#ctor(System.String)">
+            <summary>
+            Crea una nueva lavarropas.
+            </summary>
+            <param name="id">ID del dispositivo.</param>
+            <returns>El lavarropas recién creada.</returns>
+        </member>
+        <member name="P:AdapterExample.WashingMachine.id">
+            <summary>
+            .
+            </summary>
+            <returns>El ID del dispositivo.</returns>
+        </member>
+        <member name="F:AdapterExample.WashingMachine.status">
+            <summary>
+            .
+            </summary>
+            <returns>El status del dispositivo.</returns>
+        </member>
+        <member name="M:AdapterExample.WashingMachine.On">
+            <summary>
+            Enciende el lavarropas.
+            </summary>
+        </member>
+        <member name="M:AdapterExample.WashingMachine.Off">
+            <summary>
+            Apaga el lasvarropas.
+            </summary>
+        </member>
+        <member name="M:AdapterExample.WashingMachine.GetStatus">
+            <summary>
+            Retorna el status del lavarropas.
+            </summary>
         </member>
     </members>
 </doc>

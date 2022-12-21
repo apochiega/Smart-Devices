@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v6WehQYWoBur3jIFFblrrHRvTStGxIg6l7s8xZ3+cWSKgs/gS6d82hTaxaE9wHg4LIOtabGBHb2Bo6dCgi1a9Q==",
+  "dgSpecHash": "qttPc9oUcfrTMFgTfmt/oagEfTDKCFLXWDKsle316erVkuMHI6lTv+gGWgUsxugbu3Ii2cG3whsxgt0BFlhQ8g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\PII_ProjectTemplate\\src\\Program\\Program.csproj",
+  "projectFilePath": "C:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\Smart-Devices\\src\\Program\\Program.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pijua\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
     "C:\\Users\\pijua\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
