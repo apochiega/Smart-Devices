@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0aIBuQE+m2tVh2AbSq6uquYnWBpghYfOZoubeO/Jzd0QCinZo4sI7/AtnhRwXX/tMAfVnqs+inNhz30ZFVw0Vw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\pijua\\Desktop\\Julián\\ucu\\prog 2\\PII_ProjectTemplate\\src\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pijua\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.9.3\\microsoft.codeanalysis.fxcopanalyzers.2.9.3.nupkg.sha512",
+    "C:\\Users\\pijua\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\2.9.3\\microsoft.codeanalysis.versioncheckanalyzer.2.9.3.nupkg.sha512",
+    "C:\\Users\\pijua\\.nuget\\packages\\microsoft.codequality.analyzers\\2.9.3\\microsoft.codequality.analyzers.2.9.3.nupkg.sha512",
+    "C:\\Users\\pijua\\.nuget\\packages\\microsoft.netcore.analyzers\\2.9.3\\microsoft.netcore.analyzers.2.9.3.nupkg.sha512",
+    "C:\\Users\\pijua\\.nuget\\packages\\microsoft.netframework.analyzers\\2.9.3\\microsoft.netframework.analyzers.2.9.3.nupkg.sha512",
+    "C:\\Users\\pijua\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
